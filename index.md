@@ -76,12 +76,10 @@ Link to file example: [Additional information](reference.md)
 
 ## Tables
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1 | Row 1 | Row 1 |
-| Królik | Kapibara | Pies |
-| Very long phrase | Another very long sentence | Row 3 |
+| Column 1         | Column 2                   | Column 3 |
+| ---------------- | -------------------------- | -------- |
+| Row 1            | Row 1                      | Row 1    |
+| Królik           | Kapibara                   | Pies     |
+| Very long phrase | Another very long sentence | Row 3    |
 
 Test sentence
-
-Another test sentence
