@@ -21,7 +21,7 @@ This is *italic* text.
 
 This is a quote:
 > The quote.  
-> Another quote.
+>> Another quote.
 
 ### Code and formulas
 
@@ -37,3 +37,11 @@ This is a code block:
 <value>Error</value>
 </data>
 ```
+
+## Linking elements
+
+### Links to content
+
+#### External
+
+Example of weather forecast: [https://www.meteo.pl/](https://www.meteo.pl/)
