@@ -70,6 +70,16 @@ Link to file example: [Additional information](reference.md)
 
 ### Unordered
 
-* Bullet one
+* Bullet
 * Another bullet
 * Yet another bullet
+
+## Tables
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1 | Row 1 | Row 1 |
+| Królik | Kapibara | Pies |
+| Very long phrase | Another very long sentence | Row 3 |
+
+Test sentence
