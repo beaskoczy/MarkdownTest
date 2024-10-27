@@ -49,3 +49,27 @@ Example of weather forecast: [https://www.meteo.pl/](https://www.meteo.pl/)
 #### Internal
 
 Link to file example: [Additional information](reference.md)
+
+### Images
+
+#### External
+
+![random image](https://picsum.photos/200)
+
+#### Internal
+
+![Cat](kitku.jpg "Cat")
+
+## Lists
+
+### Ordered
+
+1. Point one
+2. Point two
+3. Point three
+
+### Unordered
+
+* Bullet one
+* Another bullet
+* Yet another bullet
