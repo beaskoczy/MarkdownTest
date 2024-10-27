@@ -1,4 +1,5 @@
 # Title
+<!-- omit in toc -->
 
 - [Title](#title)
   - [Visual elements](#visual-elements)
